@@ -1276,8 +1276,8 @@ text = [[
 
 *___________________________*
 
-➰_Powered by_ :@mohammadrezajiji
-*Channel®* : @titantim
+➰_Powered by_ :@Samyar35
+*Channel®* : @ssss3456
 ]]
 tdcli.sendMessage(msg.chat_id_, 0, 1, text, 1, 'md')
 end
