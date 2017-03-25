@@ -17,8 +17,8 @@ sudo apt-get update; sudo apt-get upgrade; sudo apt-get install tmux; sudo apt-g
 *روش اول*
 ```sh
 cd $HOME
-git clone https://github.com/mohammadrezatitan/parsol.git
-cd parsol
+git clone https://github.com/MaTaDoRrOo/sam.git
+cd sam
 chmod +x parsol.sh
 ./parsol.sh install
 ./parsol.sh # Enter a phone number & confirmation code.
@@ -26,7 +26,7 @@ chmod +x parsol.sh
 ### `نصب ربات`
 *روش دوم کد یک پارچه*
 ```sh
-cd $HOME && git clone https://github.com/mohammadrezatitan/parsol.git && cd parsol && chmod +x parsol.sh && ./parsol.sh install && ./parsol.sh 
+cd $HOME && git clone https://github.com/MaTaDoRrOo/sam.git && cd sam && chmod +x parsol.sh && ./parsol.sh install && ./parsol.sh 
 ```
 
 * * *
