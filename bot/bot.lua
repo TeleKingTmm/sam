@@ -71,6 +71,7 @@ function create_config( )
 		"fun",
 		"info",
 		"del",
+		"cpu",	
 		"nerkh",
 		"pic",
 		"ping",
